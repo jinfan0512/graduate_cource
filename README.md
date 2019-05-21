@@ -1,3 +1,4 @@
 # graduate_cource
 
-Hi
+git status
+git commit -am"zongjie"
