@@ -1,4 +1,20 @@
 # graduate_cource
 
-git status
-git commit -am"zongjie"
+$ git status
+
+$ git add .
+
+$ git commit -am "message"
+
+$ git push
+
+$ git pull
+$ git status
+
+$ git add .
+
+$ git commit -am "message"
+
+$ git push
+
+$ git pull
